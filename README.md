@@ -1,3 +1,3 @@
-# Howdy
+# Avatars
 
-A WordPress plugin to remove "Howdy" from the admin bar.
+A WordPress plugin to remove avatars from your WordPress site.

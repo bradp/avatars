@@ -1,7 +1,7 @@
 {
-	"name": "bradp/howdy",
+	"name": "bradp/avatars",
 	"type": "wordpress-plugin",
-	"description": "Remove 'Howdy' from the admin bar.",
+	"description": "Remove avatars from your WordPress site",
 	"license": "GPL-2.0-or-later",
 	"authors": [
 	  {
